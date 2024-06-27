@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor: url("images/Picsart_24-06-12_12-13-52-860.png"), auto;
+}
+body {
+    background: #000;
+    text-align: center;
+}
+
